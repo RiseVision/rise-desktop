@@ -1,0 +1,337 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2017-03-24 08:00+0000\n"
+"PO-Revision-Date: 2017-03-24 08:00+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Account added!"
+msgstr "¡Cuenta adicionada!"
+
+msgid "Account deleted!"
+msgstr "¡Cuenta eliminada!"
+
+msgid "Add"
+msgstr "Añadir"
+
+msgid "Add Account"
+msgstr "Añadir Cuenta"
+
+msgid "Add Delegate"
+msgstr "Añadir Delegado"
+
+msgid "Address"
+msgstr "Dirección"
+
+msgid "Amount"
+msgstr "Cantidad"
+
+msgid "Amount (Ѧ)"
+msgstr "Cantidad (Ѧ)"
+
+msgid "Approval"
+msgstr "Aprobación"
+
+msgid "Are you sure?"
+msgstr "¿Está seguro?"
+
+msgid "Rise Client"
+msgstr "Cliente Rise"
+
+msgid "Balance"
+msgstr "Balance"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Cannot find delegate:"
+msgstr "No se puede encontrar el delegado:"
+
+msgid "Cannot find delegates from this term:"
+msgstr "No se encuentran delegados a partir de este término:"
+
+msgid "Cannot find delegates on this peer:"
+msgstr "No se encuentran delegados en este par:"
+
+msgid "Cannot get sponsors"
+msgstr "No se puede obtener patrocinadores"
+
+msgid "Cannot get transactions"
+msgstr "No se puede obtener transacciones"
+
+msgid "Cannot get voted delegates"
+msgstr "No se puede obtener delegados votados"
+
+msgid "Cannot state if account is a delegate"
+msgstr "No se puede asegurar que la cuenta es de un delegado"
+
+msgid "Change 1h/7h/7d"
+msgstr "Cambio 1h/7h/7d"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Create Virtual Folder"
+msgstr "Crear Carpeta Virtual"
+
+msgid "Create a new virtual folder"
+msgstr "Crear una nueva carpeta virtual"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Default"
+msgstr "Predeterminado"
+
+msgid "Delay"
+msgstr "Retraso"
+
+msgid "Delegate"
+msgstr "Delegado"
+
+msgid "Delegate name"
+msgstr "Nombre de Delegado"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Delete Account"
+msgstr "Eliminar Cuenta"
+
+msgid "Delete permanently this account"
+msgstr "Eliminar esta cuenta de forma permanente"
+
+msgid "Destination Address"
+msgstr "Dirección de Destino"
+
+msgid "Enable Virtual Folders"
+msgstr "Habilitar Carpetas Virtuales"
+
+msgid "Enable Votes"
+msgstr "Habilitar Votos"
+
+msgid "Error when trying to login:"
+msgstr "Error al iniciar sesión"
+
+msgid "Error:"
+msgstr "Error:"
+
+msgid "Exchange"
+msgstr "Intercambio"
+
+msgid "Fee (Ѧ)"
+msgstr "Tasa (Ѧ)"
+
+msgid "Folder Name"
+msgstr "Nombre de Carpeta"
+
+msgid "From"
+msgstr "Desde"
+
+msgid "Full Screen"
+msgstr "Pantalla completa"
+
+msgid "Hand crafted with ❤ by"
+msgstr "Elaborado artesanalmente con ❤ por"
+
+msgid "Height"
+msgstr "Altura"
+
+msgid "Label"
+msgstr "Etiqueta"
+
+msgid "Label set"
+msgstr "Grupo de Etiquetas"
+
+msgid "Language"
+msgstr "Lenguaje"
+
+msgid "Last checked"
+msgstr "Ultima consulta"
+
+msgid "List full or delegate already voted."
+msgstr "Lista completa o delegado ya votado."
+
+msgid "Login"
+msgstr "Iniciar Sesión"
+
+msgid "Manage Networks"
+msgstr "Administrar redes"
+
+msgid "Market Cap."
+msgstr "Capitalización de Mercado"
+
+msgid "Maximize"
+msgstr "Maximizar"
+
+msgid "My Accounts"
+msgstr "Mis Cuentas"
+
+msgid "Network"
+msgstr "La red"
+
+msgid "Network connected and healthy!"
+msgstr "¡Red conectada y en óptimas condiciones!"
+
+msgid "Network disconected!"
+msgstr "¡Red desconectada!"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "No difference from original delegate list"
+msgstr "Sin diferencias con la lista original de delegados"
+
+msgid "No publicKey"
+msgstr "No hay clave pública"
+
+msgid "No search term"
+msgstr "No hay término de búsqueda"
+
+msgid "Not enough RISE on your account"
+msgstr "RISE insuficientes en su cuenta"
+
+msgid "Open Delegate Monitor"
+msgstr "Abrir Monitoreo de Delegados"
+
+msgid "Other Accounts"
+msgstr "Otras Cuentas"
+
+msgid "Passphrase"
+msgstr "Contraseña de Frase"
+
+msgid "Passphrase does not match your address"
+msgstr "La Contraseña de Frase no coincide con su dirección"
+
+msgid "Passphrase is not corresponding to account"
+msgstr "La Contraseña de Frase no corresponde a la cuenta"
+
+msgid "Peer"
+msgstr "Par"
+
+msgid "Please enter a folder name."
+msgstr "Por favor ingrese un nombre de carpeta."
+
+msgid "Please enter a new address."
+msgstr "Por favor ingrese una nueva dirección."
+
+msgid "Please enter a short label."
+msgstr "Por favor ingrese una etiqueta corta."
+
+msgid "Please enter this account passphrase to login."
+msgstr "Por favor ingrese la contraseña de frase correspondiente a esta cuenta para iniciar sesión."
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Productivity"
+msgstr "Productividad"
+
+msgid "Quit"
+msgstr "Salir"
+
+msgid "Quit Rise Client?"
+msgstr "¿Quiere salir del Cliente Rise?"
+
+msgid "Rank"
+msgstr "Posición"
+
+msgid "Receive Rise"
+msgstr "Recibir Rise"
+
+msgid "Remove"
+msgstr "Quitar"
+
+msgid "Rename"
+msgstr "Renombrar"
+
+msgid "Second Passphrase"
+msgstr "Segunda Contraseña de Frase"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Send Rise"
+msgstr "Enviar  Rise"
+
+msgid "Send Rise from"
+msgstr "Enviar Rise desde"
+
+msgid "Set"
+msgstr "Establecer"
+
+msgid "Succesfully Logged In!"
+msgstr "Inicio de Sesión Exitoso!"
+
+msgid "The destination address"
+msgstr "La dirección de destino"
+
+msgid "To"
+msgstr "Hacia"
+
+msgid "Transaction"
+msgstr "Transacción"
+
+msgid "Transactions"
+msgstr "Transacciones"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Update vote from"
+msgstr "Votar a favor desde"
+
+msgid "Username"
+msgstr "Nombre de usuario"
+
+msgid "Virtual folder added!"
+msgstr "¡Carpeta virtual añadida!"
+
+msgid "Vote"
+msgstr "Voto"
+
+msgid "Votes"
+msgstr "Votos"
+
+msgid "address"
+msgstr "dirección"
+
+msgid "folder name"
+msgstr "Nombre de carpeta"
+
+msgid "is erroneous"
+msgstr "es erroneo"
+
+msgid "is not recognised"
+msgstr "no es reconocido"
+
+msgid "label"
+msgstr "etiqueta"
+
+msgid "missed blocks"
+msgstr "bloques perdidos"
+
+msgid "now!"
+msgstr "¡ahora!"
+
+msgid "passphrase"
+msgstr "contraseña de frase"
+
+msgid "produced blocks"
+msgstr "bloques producidos"
+
+msgid "sent with success!"
+msgstr "¡Enviado exitosamente!"
+
+msgid "you need at least 1 RISE to vote"
+msgstr "necesitas al menos 1 RISE para votar"
+
+msgid "you need at least 25 RISE to register delegate"
+msgstr "Necesita al menos 25 RISE para registrar delegado"
+

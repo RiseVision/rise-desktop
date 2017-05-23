@@ -84,7 +84,7 @@
             peerseed:'http://52.168.147.40:9011',
             forcepeer: false,
             token: 'RISE',
-            symbol: 'Ѧ',
+            symbol: 'Ɍ',
             version: 0x42,
             explorer: 'http://52.168.147.40:6040',
             exchanges: {
@@ -96,7 +96,7 @@
             nethash:'545e522142d10a18b4e92211f3f2a2d362f2b1bc8fb23ba3ff18da8670863634',
             peerseed:'http://52.168.147.40:9011',
             token: 'TESTRISE',
-            symbol: 'TѦ',
+            symbol: 'Ɍ',
             version: 0x42,
             explorer: 'http://52.168.147.40:6040',
             background:"#222299"

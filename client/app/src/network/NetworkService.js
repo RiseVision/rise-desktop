@@ -79,14 +79,14 @@
       var n = storageService.getGlobal("networks");
       if(!n){
         n = {
-          mainnet:{ //so far same as testnet
-            nethash:'545e522142d10a18b4e92211f3f2a2d362f2b1bc8fb23ba3ff18da8670863634',
-            peerseed:'http://52.168.147.40:9011',
-            forcepeer: false,
+          mainnet:{ 
+            nethash:'101dedd49f2caa0e20408ccd9c243cae71a78aa21e5872dde1422b46e750720c',
+            peerseed:'http://40.71.42.111:8888',
+            forcepeer: true,
             token: 'RISE',
             symbol: 'Ɍ',
-            version: 0x42,
-            explorer: 'http://52.168.147.40:6040',
+            version: 0x3C,
+            explorer: 'http://40.71.217.64:6040',
             exchanges: {
               //changer: "rise_RISE"
             },
@@ -99,7 +99,7 @@
             symbol: 'Ɍ',
             version: 0x42,
             explorer: 'http://52.168.147.40:6040',
-            background:"#222299"
+            background:"url(assets/images/Rise-background.jpg)"
           }
         };
         storageService.setGlobal("networks",n);

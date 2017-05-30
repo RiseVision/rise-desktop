@@ -4,7 +4,7 @@
 [Latest Release](https://github.com/RiseVision/rise-desktop/releases)
 
 ## Important
-If you are testing or you just want to start fresh:
+If you are testing or you just want to start fresh (you'll loose your addresses so backup your secrets!):
 * Start Rise Desktop Client
 * Press CONTROL+D to open up the Debug Screen
 * Copy and Paste this line to the console box `localStorage.clear();window.location.reload();`

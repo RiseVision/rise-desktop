@@ -38,8 +38,8 @@ msgstr "Адрес"
 msgid "Amount"
 msgstr "Количество"
 
-msgid "Amount (Ѧ)"
-msgstr "Количество (Ѧ)"
+msgid "Amount (Ɍ)"
+msgstr "Количество (Ɍ)"
 
 msgid "Are you sure?"
 msgstr "Вы уверены?"
@@ -122,8 +122,8 @@ msgstr "Ошибка:"
 msgid "Exchange"
 msgstr "Обмен"
 
-msgid "Fee (Ѧ)"
-msgstr "Комиссия (Ѧ)\n"
+msgid "Fee (Ɍ)"
+msgstr "Комиссия (Ɍ)\n"
 
 msgid "Folder Name"
 msgstr "Имя Папки"

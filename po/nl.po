@@ -29,8 +29,8 @@ msgstr "Adres"
 msgid "Amount"
 msgstr "Bedrag"
 
-msgid "Amount (Ѧ)"
-msgstr "Bedrag (Ѧ)"
+msgid "Amount (Ɍ)"
+msgstr "Bedrag (Ɍ)"
 
 msgid "Approval"
 msgstr "Goedkeuring"
@@ -47,7 +47,7 @@ msgstr "Annuleer"
 msgid "Exchange"
 msgstr "Uitwisseling"
 
-msgid "Fee (Ѧ)"
+msgid "Fee (Ɍ)"
 msgstr "Prijs "
 
 msgid "Folder Name"

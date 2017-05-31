@@ -38,8 +38,8 @@ msgstr "Naslov"
 msgid "Amount"
 msgstr "Znesek"
 
-msgid "Amount (Ѧ)"
-msgstr "Znesek (Ѧ)"
+msgid "Amount (Ɍ)"
+msgstr "Znesek (Ɍ)"
 
 msgid "Approval"
 msgstr "Podpora"
@@ -137,8 +137,8 @@ msgstr "Napaka"
 msgid "Exchange"
 msgstr "Izmenjava"
 
-msgid "Fee (Ѧ)"
-msgstr "Strošek (Ѧ)"
+msgid "Fee (Ɍ)"
+msgstr "Strošek (Ɍ)"
 
 msgid "Folder Name"
 msgstr "Ime mape"

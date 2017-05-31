@@ -62,8 +62,8 @@ msgstr "Adresse"
 msgid "Amount"
 msgstr "Betrag"
 
-msgid "Amount (Ѧ)"
-msgstr "Betrag (Ѧ)"
+msgid "Amount (Ɍ)"
+msgstr "Betrag (Ɍ)"
 
 msgid "Approval"
 msgstr "Zustimmung"
@@ -179,8 +179,8 @@ msgstr "Börse"
 msgid "Explorer"
 msgstr "Explorer"
 
-msgid "Fee (Ѧ)"
-msgstr "Gebühr (Ѧ)"
+msgid "Fee (Ɍ)"
+msgstr "Gebühr (Ɍ)"
 
 msgid "Folder Name"
 msgstr "Ordnername"

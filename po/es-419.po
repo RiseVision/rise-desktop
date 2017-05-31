@@ -32,8 +32,8 @@ msgstr "Dirección"
 msgid "Amount"
 msgstr "Cantidad"
 
-msgid "Amount (Ѧ)"
-msgstr "Cantidad (Ѧ)"
+msgid "Amount (Ɍ)"
+msgstr "Cantidad (Ɍ)"
 
 msgid "Approval"
 msgstr "Aprobación"
@@ -125,8 +125,8 @@ msgstr "Error:"
 msgid "Exchange"
 msgstr "Intercambio"
 
-msgid "Fee (Ѧ)"
-msgstr "Tasa (Ѧ)"
+msgid "Fee (Ɍ)"
+msgstr "Tasa (Ɍ)"
 
 msgid "Folder Name"
 msgstr "Nombre de Carpeta"

@@ -38,8 +38,8 @@ msgstr "Alamat"
 msgid "Amount"
 msgstr "Jumlah"
 
-msgid "Amount (Ѧ)"
-msgstr "Jumlah (Ѧ)"
+msgid "Amount (Ɍ)"
+msgstr "Jumlah (Ɍ)"
 
 msgid "Approval"
 msgstr "Persetujuan"
@@ -137,8 +137,8 @@ msgstr "Kesalahan:"
 msgid "Exchange"
 msgstr "Bursa"
 
-msgid "Fee (Ѧ)"
-msgstr "Biaya (Ѧ)"
+msgid "Fee (Ɍ)"
+msgstr "Biaya (Ɍ)"
 
 msgid "Folder Name"
 msgstr "Nama Folder"

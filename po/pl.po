@@ -98,8 +98,8 @@ msgstr "Adres"
 msgid "Amount"
 msgstr "Kwota"
 
-msgid "Amount (Ѧ)"
-msgstr "Kwota (Ѧ)"
+msgid "Amount (Ɍ)"
+msgstr "Kwota (Ɍ)"
 
 msgid "Approval"
 msgstr "Poparcie"
@@ -215,8 +215,8 @@ msgstr "Giełda"
 msgid "Explorer"
 msgstr "Eksplorer "
 
-msgid "Fee (Ѧ)"
-msgstr "Prowizja (Ѧ)"
+msgid "Fee (Ɍ)"
+msgstr "Prowizja (Ɍ)"
 
 msgid "Folder Name"
 msgstr "Nazwa folderu"

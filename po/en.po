@@ -101,8 +101,8 @@ msgstr "Address"
 msgid "Amount"
 msgstr "Amount"
 
-msgid "Amount (Ѧ)"
-msgstr "Amount (Ѧ)"
+msgid "Amount (Ɍ)"
+msgstr "Amount (Ɍ)"
 
 msgid "Approval"
 msgstr "Approval"
@@ -218,8 +218,8 @@ msgstr "Exchange"
 msgid "Explorer"
 msgstr "Explorer"
 
-msgid "Fee (Ѧ)"
-msgstr "Fee (Ѧ)"
+msgid "Fee (Ɍ)"
+msgstr "Fee (Ɍ)"
 
 msgid "Folder Name"
 msgstr "Folder Name"

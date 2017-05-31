@@ -62,8 +62,8 @@ msgstr "Adresse"
 msgid "Amount"
 msgstr "Montant"
 
-msgid "Amount (Ѧ)"
-msgstr "Montant (Ѧ)"
+msgid "Amount (Ɍ)"
+msgstr "Montant (Ɍ)"
 
 msgid "Approval"
 msgstr "Approbation"
@@ -179,8 +179,8 @@ msgstr "Échange"
 msgid "Explorer"
 msgstr "Explorateur"
 
-msgid "Fee (Ѧ)"
-msgstr "Frais (Ѧ)"
+msgid "Fee (Ɍ)"
+msgstr "Frais (Ɍ)"
 
 msgid "Folder Name"
 msgstr "Nom du portefeuille virtuel"
@@ -486,8 +486,8 @@ msgid "sent with success!"
 msgstr "envoyé avec succès"
 
 msgid "you need at least 1 RISE to vote"
-msgstr "vous avez besoin d'au moins 1 Ѧ pour pouvoir voter"
+msgstr "vous avez besoin d'au moins 1 Ɍ pour pouvoir voter"
 
 msgid "you need at least 25 RISE to register delegate"
-msgstr "vous devez avoir au moins 25 Ѧ pour devenir délégué"
+msgstr "vous devez avoir au moins 25 Ɍ pour devenir délégué"
 

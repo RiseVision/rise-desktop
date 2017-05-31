@@ -32,8 +32,8 @@ msgstr "Indirizzo"
 msgid "Amount"
 msgstr "Somma"
 
-msgid "Amount (Ѧ)"
-msgstr "Somma (Ѧ)"
+msgid "Amount (Ɍ)"
+msgstr "Somma (Ɍ)"
 
 msgid "Approval"
 msgstr "Approvazione"
@@ -125,8 +125,8 @@ msgstr "Errore:"
 msgid "Exchange"
 msgstr "Exchange"
 
-msgid "Fee (Ѧ)"
-msgstr "Commissione (Ѧ)"
+msgid "Fee (Ɍ)"
+msgstr "Commissione (Ɍ)"
 
 msgid "Folder Name"
 msgstr "Nome Cartella"

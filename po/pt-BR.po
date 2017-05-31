@@ -38,8 +38,8 @@ msgstr "Endereço"
 msgid "Amount"
 msgstr "Quantidade"
 
-msgid "Amount (Ѧ)"
-msgstr "Quantidade (Ѧ)"
+msgid "Amount (Ɍ)"
+msgstr "Quantidade (Ɍ)"
 
 msgid "Approval"
 msgstr "Aprovação"
@@ -137,8 +137,8 @@ msgstr "Erro:"
 msgid "Exchange"
 msgstr "Troca"
 
-msgid "Fee (Ѧ)"
-msgstr "Taxa (Ѧ)"
+msgid "Fee (Ɍ)"
+msgstr "Taxa (Ɍ)"
 
 msgid "Folder Name"
 msgstr "Nome da pasta"

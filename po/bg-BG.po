@@ -38,8 +38,8 @@ msgstr "Адрес"
 msgid "Amount"
 msgstr "Сума"
 
-msgid "Amount (Ѧ)"
-msgstr "Сума (Ѧ)"
+msgid "Amount (Ɍ)"
+msgstr "Сума (Ɍ)"
 
 msgid "Approval"
 msgstr "Потвърждение"
@@ -137,8 +137,8 @@ msgstr "Грешка:"
 msgid "Exchange"
 msgstr "Обмяна"
 
-msgid "Fee (Ѧ)"
-msgstr "Такса (Ѧ)"
+msgid "Fee (Ɍ)"
+msgstr "Такса (Ɍ)"
 
 msgid "Folder Name"
 msgstr "Име на папка"

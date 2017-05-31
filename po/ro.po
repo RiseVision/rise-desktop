@@ -119,8 +119,8 @@ msgstr "Eroare:"
 msgid "Exchange"
 msgstr "Schimb Valutar"
 
-msgid "Fee (Ѧ)"
-msgstr "taxa (Ѧ)"
+msgid "Fee (Ɍ)"
+msgstr "taxa (Ɍ)"
 
 msgid "Folder Name"
 msgstr "Nume Dosar"

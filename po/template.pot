@@ -60,7 +60,7 @@ msgid "Amount"
 msgstr ""
 
 #: client/app/src/accounts/view/showTransaction.html:24
-msgid "Amount (Ѧ)"
+msgid "Amount (Ɍ)"
 msgstr ""
 
 #: client/app/index.html:572
@@ -258,7 +258,7 @@ msgid "Explorer"
 msgstr ""
 
 #: client/app/src/accounts/view/showTransaction.html:27
-msgid "Fee (Ѧ)"
+msgid "Fee (Ɍ)"
 msgstr ""
 
 #: client/app/src/accounts/AccountController.js:506

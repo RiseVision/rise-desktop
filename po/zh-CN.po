@@ -38,8 +38,8 @@ msgstr "地址"
 msgid "Amount"
 msgstr "合计"
 
-msgid "Amount (Ѧ)"
-msgstr "合计 (Ѧ)"
+msgid "Amount (Ɍ)"
+msgstr "合计 (Ɍ)"
 
 msgid "Approval"
 msgstr "批准"
@@ -137,8 +137,8 @@ msgstr "错误"
 msgid "Exchange"
 msgstr "交换"
 
-msgid "Fee (Ѧ)"
-msgstr "费用(Ѧ)"
+msgid "Fee (Ɍ)"
+msgstr "费用(Ɍ)"
 
 msgid "Folder Name"
 msgstr "文件夹名称"

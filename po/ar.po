@@ -32,8 +32,8 @@ msgstr "عنوان"
 msgid "Amount"
 msgstr "مبلغ"
 
-msgid "Amount (Ѧ)"
-msgstr "مبلغ (Ѧ)"
+msgid "Amount (Ɍ)"
+msgstr "مبلغ (Ɍ)"
 
 msgid "Approval"
 msgstr "موافقة"
@@ -125,8 +125,8 @@ msgstr "خطأ:"
 msgid "Exchange"
 msgstr "تبادل"
 
-msgid "Fee (Ѧ)"
-msgstr "رسوم (Ѧ)"
+msgid "Fee (Ɍ)"
+msgstr "رسوم (Ɍ)"
 
 msgid "Folder Name"
 msgstr "اسم المُجلّد"

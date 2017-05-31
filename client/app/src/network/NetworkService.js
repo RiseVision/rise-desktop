@@ -93,7 +93,7 @@
             background:"url(assets/images/Rise-background.jpg)"
           },
           testnet:{
-            nethash:'545e522142d10a18b4e92211f3f2a2d362f2b1bc8fb23ba3ff18da8670863634',
+            nethash:'20e6eef505c44821afd5ce5363330d6c3cc6a3f9e31f093ec1e19f8e39f81c01',
             peerseed:'http://52.168.147.40:9011',
             token: 'TESTRISE',
             symbol: 'Ɍ',

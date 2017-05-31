@@ -82,7 +82,7 @@
           mainnet:{ 
             nethash:'101dedd49f2caa0e20408ccd9c243cae71a78aa21e5872dde1422b46e750720c',
             peerseed:'http://40.71.42.111:8888',
-            forcepeer: true,
+            forcepeer: false,
             token: 'RISE',
             symbol: 'Ɍ',
             version: 0x3C,

@@ -14,7 +14,7 @@
    */
   function AccountService($q, $http, networkService, storageService, gettextCatalog){
 
-    var rise=require('arkjs');
+    var rise=require('shift-js');
 
     var TxTypes = {
       0:"Send Rise",
@@ -138,7 +138,7 @@
 
     function createAccount(passphrase){
       var deferred = $q.defer();
-      var address=rise.crypto.getAddress(rise.crypto.getKeys(passphrase).publicKey, networkService.getNetwork().version);
+      var address=rise.crypto.getAddress(rise.crypto.getKeys(passphrase).publicKey);
       var account=fetchAccount(address).then(function(account){
         if(account){
           account.virtual=account.virtual || {};
@@ -340,11 +340,19 @@
       return deferred.promise;
     };
 
+    function validateAddress(address){
+      try {
+        return true
+      } catch(e){
+        return true;
+      }
+    }
+
     function createTransaction(type,config){
       var deferred = $q.defer();
       if(type==0){ //send rise
         var isAddress = /^[1-9A-Za-z]+$/g;
-        if(!rise.crypto.validateAddress(config.toAddress, networkService.getNetwork().version)){
+        if(!validateAddress(config.toAddress)){
           deferred.reject(gettextCatalog.getString("The destination address ")+config.toAddress+gettextCatalog.getString(" is erroneous"));
           return deferred.promise;
         }
@@ -356,14 +364,14 @@
         }
 
         try{
-          var transaction=rise.transaction.createTransaction(config.toAddress, config.amount, config.smartbridge, config.masterpassphrase, config.secondpassphrase);
+          var transaction=rise.transaction.createTransaction(config.toAddress, config.amount, config.masterpassphrase, config.secondpassphrase);
         }
         catch(e){
           deferred.reject(e);
           return deferred.promise;
         }
 
-        if(rise.crypto.getAddress(transaction.senderPublicKey, networkService.getNetwork().version)!=config.fromAddress){
+        if(rise.crypto.getAddress(transaction.senderPublicKey)!=config.fromAddress){
           deferred.reject(gettextCatalog.getString("Passphrase is not corresponding to account ")+config.fromAddress);
           return deferred.promise;
         }
@@ -385,7 +393,7 @@
           deferred.reject(e);
           return deferred.promise;
         }
-        if(rise.crypto.getAddress(transaction.senderPublicKey, networkService.getNetwork().version)!=config.fromAddress){
+        if(rise.crypto.getAddress(transaction.senderPublicKey)!=config.fromAddress){
           deferred.reject(gettextCatalog.getString("Passphrase is not corresponding to account ")+config.fromAddress);
           return deferred.promise;
         }
@@ -406,7 +414,7 @@
           deferred.reject(e);
           return deferred.promise;
         }
-        if(rise.crypto.getAddress(transaction.senderPublicKey, networkService.getNetwork().version)!=config.fromAddress){
+        if(rise.crypto.getAddress(transaction.senderPublicKey)!=config.fromAddress){
           deferred.reject(gettextCatalog.getString("Passphrase is not corresponding to account ")+config.fromAddress);
           return deferred.promise;
         }
@@ -427,7 +435,7 @@
           deferred.reject(e);
           return deferred.promise;
         }
-        if(rise.crypto.getAddress(transaction.senderPublicKey, networkService.getNetwork().version)!=config.fromAddress){
+        if(rise.crypto.getAddress(transaction.senderPublicKey)!=config.fromAddress){
           deferred.reject(gettextCatalog.getString("Passphrase is not corresponding to account ")+config.fromAddress);
           return deferred.promise;
         }
@@ -531,7 +539,7 @@
 
     function createVirtual(passphrase){
       var deferred = $q.defer();
-      var address=rise.crypto.getAddress(rise.crypto.getKeys(passphrase).publicKey, networkService.getNetwork().version);
+      var address=rise.crypto.getAddress(rise.crypto.getKeys(passphrase).publicKey);
       var account=getAccount(address);
       if(account){
         account.virtual=account.virtual || {};

@@ -12,8 +12,8 @@
 
     var network=switchNetwork(storageService.getContext());
 
-    var rise = require('arkjs');
-    rise.crypto.setNetworkVersion(network.version);
+    var rise = require('shift-js');
+    //rise.crypto.setNetworkVersion(network.version);
 
     var clientVersion = require('../../package.json').version;
 
@@ -80,25 +80,25 @@
       if(!n){
         n = {
           mainnet:{ 
-            nethash:'101dedd49f2caa0e20408ccd9c243cae71a78aa21e5872dde1422b46e750720c',
-            peerseed:'http://40.71.42.111:8888',
-            forcepeer: false,
+            nethash:'cd8171332c012514864edd8eb6f68fc3ea6cb2afbaf21c56e12751022684cea5',
+            peerseed:'http://core1.rise.vision:5555',
+            forcepeer: true,
             token: 'RISE',
             symbol: 'Ɍ',
-            version: 0x3C,
-            explorer: 'http://40.71.217.64:6040',
+            //version: 0x3C,
+            explorer: 'https://explorer.rise.vision',
             exchanges: {
               //changer: "rise_RISE"
             },
             background:"url(assets/images/Rise-background.jpg)"
           },
           testnet:{
-            nethash:'20e6eef505c44821afd5ce5363330d6c3cc6a3f9e31f093ec1e19f8e39f81c01',
-            peerseed:'http://52.168.147.40:9011',
+            nethash:'e90d39ac200c495b97deb6d9700745177c7fc4aa80a404108ec820cbeced054c',
+            peerseed:'http://testnode1.rise.vision:5566',
             token: 'TESTRISE',
             symbol: 'Ɍ',
-            version: 0x42,
-            explorer: 'http://52.168.147.40:6040',
+            //version: 0x42,
+            explorer: 'https://texplorer.rise.vision',
             background:"url(assets/images/Rise-background.jpg)"
           }
         };

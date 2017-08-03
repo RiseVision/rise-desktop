@@ -27,7 +27,7 @@
         , GetCoins : { path : 'getcoins', method : 'GET' }
         , GetTxListWithKey : { path : 'txbyapikey', method : 'GET' }
         , GetTxToAddressWithKey : { path : 'txbyaddress', method : 'GET' }
-        , ValidateAddress : { path : 'validateAddress', method : 'GET' }
+        //, ValidateAddress : { path : 'validateAddress', method : 'GET' }
         , NormalTx : { path : 'shift', method : 'POST'}
         , RequestEmailReceipt : { path : 'mail', method : 'POST'}
         , FixedAmountTx : { path: 'sendamount', method : 'POST'}

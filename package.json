@@ -1,6 +1,6 @@
 {
   "name": "RiseClient",
-  "version": "1.2.2",
+  "version": "0.1.0",
   "productName": "RiseClient",
   "description": "Rise Desktop",
   "main": "main.js",
@@ -61,7 +61,7 @@
       "category": "finance"
     },
     "win": {
-      "iconUrl": "https://raw.githubusercontent.com/RiseVision/rise-core/master/public/images/apple-icon-180x180.png"
+      "iconUrl": "https://raw.githubusercontent.com/RiseVision/rise-wallet/master/images/apple-touch-icon-180x180.png"
     },
     "linux": {
       "synopsis": "A Lite Client used to securely connect to the Rise network and manage your Rise assets.",

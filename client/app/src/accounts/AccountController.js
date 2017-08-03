@@ -956,7 +956,6 @@
             fromAddress: $scope.send.data.fromAddress,
             toAddress: $scope.send.data.toAddress,
             amount: parseInt($scope.send.data.amount*100000000),
-            smartbridge: $scope.send.data.smartbridge,
             masterpassphrase: $scope.send.data.passphrase,
             secondpassphrase: $scope.send.data.secondpassphrase
           }

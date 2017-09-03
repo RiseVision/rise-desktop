@@ -81,7 +81,7 @@
         n = {
           mainnet:{ 
             nethash:'cd8171332c012514864edd8eb6f68fc3ea6cb2afbaf21c56e12751022684cea5',
-            peerseed:'http://core1.rise.vision:5555',
+            peerseed:'https://wallet.rise.vision',
             forcepeer: true,
             token: 'RISE',
             symbol: 'Ɍ',
